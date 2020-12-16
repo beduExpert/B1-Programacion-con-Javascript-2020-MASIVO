@@ -38,10 +38,6 @@ Distinguir las distintas estructuras que permiten controlar el flujo de ejecuci√
 
 	- [Reto 3: N√∫meros primos](./Reto-03)
 
-- **[Reto final](./Reto-final)**
-
-- **[Postwork](./Postwork)**
-
 ---
 
 ## Condicionales
