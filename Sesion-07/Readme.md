@@ -33,10 +33,6 @@ Identificar el rol de JavaScript en el desarrollo web al permitir interactividad
 
 	- [Reto 2: Crear una tabla](./Reto-02)
 
-- **[Reto final](./Reto-final)**
-
-- **[Postwork](./Postwork)**
-
 ---
 
 ## ¿Qué es el DOM?

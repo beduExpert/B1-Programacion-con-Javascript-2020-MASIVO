@@ -31,10 +31,6 @@ Generar scripts que permitan la manipulación e interacción con la web.
 
 	- [Reto 3: Navegando entre tabs](./Reto-03)
 
-- **[Reto final](./Reto-final)**
-
-- **[Postwork](./Postwork)**
-
 ---
 
 ## Event handlers

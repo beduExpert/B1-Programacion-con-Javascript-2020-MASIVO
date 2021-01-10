@@ -33,10 +33,6 @@ Crear constructores a partir de los cuales se puedan instanciar múltiples objet
 
 	- [Reto 3: Loop](./Reto-03)
 
-- **[Reto final](./Reto-final)**
-
-- **[Postwork](./Postwork)**
-
 ---
 
 ## Programación funcional
