@@ -27,6 +27,8 @@ Mostrar las principales características de los objetos y arreglos, así como la
 
 	- [Reto 3: Extraer una lista de propiedades](./Reto-03)
 
+- **[Postwork](./Postwork/Readme.md)**
+
 ---
 
 ## Arreglos
