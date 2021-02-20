@@ -25,6 +25,12 @@
 
 - **[Destructuring](#destructuring)**
 
+  - [Reto 1: Intercambiar variables](./Reto-01/Readme.md)
+
+  - [Ejemplo 1: Object destructuring](./Ejemplo-01/Readme.md)
+
+  - [Reto 2: Objetos anidados](./Reto-02/Readme.md)
+
 - **[Arrow functions](#arrow-functions)**
 
   - [Sintaxis](#sintaxis)
@@ -34,6 +40,10 @@
   - [Return implícito](#return-implícito)
 
   - [Funciones anónimas](#funciones-anónimas)
+
+  - [Reto 3: Crear un número de teléfono](./Reto-03/Readme.md)
+
+- **[Postwork](./Postwork/Readme.md)**
 
 ---
 
@@ -302,6 +312,8 @@ console.log(yellow); // Yellow
 En este ejemplo estamos creando 3 variables (`red`, `blue` y `yellow`) y asignando los valores del arreglo `colors`.
 Esta asignación se hace basándose en el index del arreglo.
 
+#### [Reto 1: Intercambiar variables](./Reto-01/Readme.md)
+
 ```javascript
 const person = {
   firstName: 'John',
@@ -333,6 +345,10 @@ console.log(firstName, lastName); // John Doe
 Las llaves del lado izquierdo del `=` no son un objeto. Esta es la sintaxis de object destructuring. Estamos creando dos
 nuevas variables `firstName` y `lastName`, después estamos extrayendo dos propiedades de `person` con el mismo nombre de
 las variables, el valor de esas propiedades es el que se asigna a las variables creadas.
+
+#### [Ejemplo 1: Object destructuring](./Ejemplo-01/Readme.md)
+
+#### [Reto 2: Objetos anidados](./Reto-02/Readme.md)
 
 ---
 
@@ -426,3 +442,7 @@ const logName = name => console.log(`Hello ${name}!`);
 
 logName('John Doe'); // Hello John Doe!
 ```
+
+#### [Reto 3: Crear un número de teléfono](./Reto-03/Readme.md)
+
+#### [Postwork](./Postwork/Readme.md)
